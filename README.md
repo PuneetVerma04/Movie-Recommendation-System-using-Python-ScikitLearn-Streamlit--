@@ -1,5 +1,4 @@
 # Machine Learning Model with Python, scikit-learn, and Streamlit
-# Machine Learning Model with Python, scikit-learn, and Streamlit
 
 This repository hosts a machine learning model developed in Python using scikit-learn and deployed with Streamlit. The data used for developing this model is sourced from Kaggle, involving analysis, preprocessing, and model building.
 
